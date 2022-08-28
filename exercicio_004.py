@@ -1,3 +1,5 @@
+#Faça um Programa que peça as 4 notas bimestrais e mostre a média.
+
 def media_bimestral():
     print("*******************************")
     print("*****Média de 4 bimestres!*****")

@@ -1,3 +1,5 @@
+#Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+
 def area_do_circulo():
     print("***********************************************")
     print("*****Vamos descobrir a área de um circulo!*****")

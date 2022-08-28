@@ -1,3 +1,5 @@
+#Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+
 def area_do_quadrado():
     print("*********************************************************")
     print("*****Vamos descobrir o dobro da área de um quadrado!*****")
